@@ -29,14 +29,14 @@
         "@types/chai": "^5.2.2",
         "@types/chai-as-promised": "^8.0.2",
         "@types/mocha": "^10.0.10",
-        "@types/node": "22.x",
+        "@types/node": "24.x",
         "@types/vscode": "1.100.0",
-        "@typescript-eslint/eslint-plugin": "^8.33.1",
-        "@typescript-eslint/parser": "^8.33.1",
+        "@typescript-eslint/eslint-plugin": "^8.34.0",
+        "@typescript-eslint/parser": "^8.34.0",
         "chai": "^5.2.0",
         "chai-as-promised": "^8.0.1",
         "eslint": "^9.28.0",
-        "mocha": "^11.5.0",
+        "mocha": "^11.6.0",
         "typescript": "^5.8.3"
     },
     "dependencies": {
